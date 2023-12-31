@@ -1,0 +1,62 @@
+<!--markdown tutorial-->
+farhad  
+this is seconsd line
+hello<br/>
+good<hr/>
+
+# hello man
+## hello man
+### hello man
+#### hello man
+##### hello man
+###### hello man
+
+## paragraph
+
+<p>this is farhad.i'm a 25 years old.now i a'm a student.</p>
+
+## italic
+<i>this is a boy</i>  
+_Hello everyone_   <!--italic-->  
+
+## Bold
+__Hello everyone__
+
+## delete
+~~i will go to Dhaka~~
+
+## One line
+`yes,i do`  
+
+## Multiple line
+```yes,i do.you are a boy and excellent guy.but you are a dishonest.```
+
+
+## Order list
+1. text1
+2. text2
+3. text3  
+     3.1. text1  
+     3.2. text2  
+
+## Unorder list
+-item1  
+-item2  
+-item3  
+-item4  
+
+## task list
+-[x] task1  
+-[x] task2  
+-[x] task2
+
+http://www.facebook.com <!--link-->  
+
+`http://www.facebook.com` <!--disable link-->  
+[Facebook](http://www.facebook.com )  
+
+## table syntex
+| name | roll |  
+|-----|------|  
+| farhad | 043 |  
+|rimon | 044 |  
